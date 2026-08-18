@@ -8,7 +8,7 @@ This is a project analysing the Kenya medicsl record on petiences
 3. github
 
 ## Challanges Face
-> -New concept 
-> -Excel data not opening on excel
-> -Git commands
+-New concept 
+ -Excel data not opening on excel
+ -Git commands
 
